@@ -14,7 +14,7 @@ end
 end
 Scraper.new.get_page
 
-=begin
+
     def print_courses
     self.make_courses
     Course.all.each do |course|
@@ -25,5 +25,5 @@ Scraper.new.get_page
       end
     end
   end
-=end
+
 end
