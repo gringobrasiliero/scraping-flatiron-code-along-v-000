@@ -11,7 +11,7 @@ doc = Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scrapin
 
 binding.pry
 end
-end
+
 
 
     def print_courses
