@@ -25,5 +25,5 @@ Scraper.new.get_page
       end
     end
   end
-
+=end
 end
